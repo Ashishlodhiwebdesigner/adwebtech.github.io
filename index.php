@@ -228,116 +228,7 @@
                 </section>
                 <!-- Skills Area End -->
 
-                <!-- clients Area Start -->
-                <!-- <section class="clients p-40" id="clients">
-                    <div class="container">
-                        <div class="heading mb-48">
-                           <h3>Clients</h3>
-                        </div>
-                        <div class="client-slider">
-                            <div class="item">
-                                <img src="assets/media/clients/c-1.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-2.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-3.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-4.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-5.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-6.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-1.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-2.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-3.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-4.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-5.png" alt="image">
-                            </div>
-                            <div class="item">
-                                <img src="assets/media/clients/c-6.png" alt="image">
-                            </div>
-                        </div>
-                    </div>
-                </section> -->
-                <!-- clients Area End -->
-
-                <!-- Experience Area Start -->
-                <!-- <section class="experience p-40" id="experience">
-                    <div class="container">
-                        <div class="heading mb-48">
-                           <h3 class="mb-32">Experience and Education</h3>
-                           <h5>Client Collaborations: Bringing Visions to Life Together.</h5>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-4">
-                                <div class="content-block bg-gradient shadow br-30 mb-24 mb-lg-0">
-                                    <h3 class="color-primary mb-48">2016</h3>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Bachelor Degree of Design</h5>
-                                        <h6 class="dark-gray">VTIC University,</h6>
-                                    </div>
-                                    <div class="text-block">
-                                        <h5 class="mb-8">UI/UX Design Certification</h5>
-                                        <h6 class="dark-gray">University of London</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="content-block bg-gradient shadow br-30 mb-24 mb-lg-0">
-                                    <h3 class="color-primary mb-48">2017-2022</h3>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Design Internship</h5>
-                                        <h6 class="dark-gray">Rhode Island (RI)</h6>
-                                    </div>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Bachelor Degree of Design</h5>
-                                        <h6 class="dark-gray">Art College, London</h6>
-                                    </div>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Wed Design</h5>
-                                        <h6 class="dark-gray">Freelancer,</h6>
-                                    </div>
-                                    <div class="text-block">
-                                        <h5 class="mb-8">Leader Graphic Design</h5>
-                                        <h6 class="dark-gray">Pratt Institute</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div class="content-block bg-gradient shadow br-30">
-                                    <h3 class="color-primary mb-48">2023</h3>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Product Design Management</h5>
-                                        <h6 class="dark-gray">VTIC University,</h6>
-                                    </div>
-                                    <div class="text-block mb-32">
-                                        <h5 class="mb-8">Art Director / Co-Founder</h5>
-                                        <h6 class="dark-gray">Spotify,</h6>
-                                    </div>
-                                    <div class="text-block">
-                                        <h5 class="mb-8">Auther of The Book</h5>
-                                        <h6 class="dark-gray">Design for Love</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section> -->
+             
                 <!-- Experience Area End -->
 
                 <div class="ads">
@@ -366,12 +257,12 @@
                                 <h2 class="title mb-32">Stay Connected,<br><b class="color-primary"> with us effortlessly!</b></h2>
                                 <p class="mb-32 dark-gray">you have questions, suggestions, or just want to say hello, we're here to listen. Fill out the form we'll get back to you as soon as possible... </p>
                                 <ul class="unstyled">
-                                    <!-- <li><a href="tel:00000000000"><h6 class="dark-gray"><i class="far fa-phone-alt"></i>+1 233 898 0897</h6></a></li> -->
-                                    <li><a href="mailto:Himubabatech@gmail.com"><h6 class="dark-gray"><i class="fal fa-envelope"></i>Himubabatech@gmail.com</h6></a></li>
+                         
+                                    <li><a href="mailto:adwebtechonline@gmail.com"><h6 class="dark-gray"><i class="fal fa-envelope"></i>adwebtechonline@gmail.com</h6></a></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6">  
-                                <form method="post" action="https://uiparadox.co.uk/free-templates/portfolio/index.php" class="contact-form">
+                                <form method="post"  class="contact-form">
                                     <div class="row">
                                         <div class="col-sm-6">
                                             <div class="form-group mb-24">
@@ -418,7 +309,7 @@
             <footer>
                 <div class="container">
                     <div class="content">
-                        <h6 class="dark-gray">©2023 Himubaba. All Rights Reserved.</h6>
+                        <h6 class="dark-gray">©2023 adwebtech.online All Rights Reserved.</h6>
                         <ul class="social-icons unstyled">
                             <li><a href="#"><img src="assets/media/icons/Behance.png" alt="image"></a></li>
                             <li><a href="#"><img src="assets/media/icons/Dribbble.png" alt="image"></a></li>
