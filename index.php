@@ -62,7 +62,7 @@
                 <div class="container">
                     <div class="mobile-menu">
                         <div>
-                            <a class="navbar-brand" href="index.php"><img alt="himubaba brand"  src="https://adwebtech.online/assets/images/logo-img.png" style="object-fit: contain; width: 90px;"></a>
+                            <a class="navbar-brand" href="index.php"><img alt="Adwebtech"  src="https://adwebtech.online/assets/images/logo-img.png" style="object-fit: contain; width: 90px;"></a>
                         </div>
                         <div class="hamburger-menu">
                             <div class="bar"></div>	
@@ -87,8 +87,8 @@
                         <div class="col-12">
                             <div class="content-block  br-30">
                                 <div class="text-block">
-                                    <h1>Welcome To Himubaba's World</h1>
-                                    <h2 class="mb-16 mt-3">Hey, I’m Himesh Thakar, a Web Developer & Seo Master with 5 years of experience</h2>
+                                    <h1>Welcome To Adwebtech's World</h1>
+                                    <h2 class="mb-16 mt-3">Hey, I’m Ashish Lodhi, a Web Developer & Seo Master with 4 years of experience</h2>
                                     <p class="dark-white mb-2 mt-3" style="font-weight: normal;">I bring passion and proficiency to every project. Explore my portfolio, discover my services, and witness the power of creativity combined with technical excellence.</p>
                                 </div>
                                 <div class="text-center pt-4 pt-xl-5"><a href="#contact" class="cus-btn primary">Contact Me</a></div>
