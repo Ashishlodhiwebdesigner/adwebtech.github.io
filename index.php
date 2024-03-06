@@ -6,35 +6,22 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Innova Portfolio HTML Template">
 
-        <title>Himu baba || Web Developer & Seo Master </title>
+        <title>adwebtech || Web Developer & Seo Master </title>
 
         <!-- Favicon -->
-        <link rel="apple-touch-icon" sizes="36x36" href="assets/media/favicon/android-icon-36x36.png">
-        <link rel="apple-touch-icon" sizes="48x48" href="assets/media/favicon/android-icon-48x48.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="assets/media/favicon/android-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="96x96" href="assets/media/favicon/android-icon-96x96.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="assets/media/favicon/android-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="192x192" href="assets/media/favicon/android-icon-192x192.png">
-        <link rel="apple-touch-icon" sizes="144x144" href="assets/media/favicon/apple-icon-144x144.png">
-        <link rel="apple-touch-icon" sizes="152x152" href="assets/media/favicon/apple-icon.png">
-        <link rel="apple-touch-icon" sizes="57x57" href="assets/media/favicon/apple-icon-57x57.png">
-        <link rel="icon" type="image/png" sizes="60x60"  href="assets/media/favicon/apple-icon-60x60.png">
-        <link rel="icon" type="image/png" sizes="72x72" href="assets/media/favicon/apple-icon-72x72.png">
-        <link rel="icon" type="image/png" sizes="76x76" href="assets/media/favicon/apple-icon-76x76.png">
-        <link rel="icon" type="image/png" sizes="114x114" href="assets/media/favicon/apple-icon-114x114.png">
-        <link rel="icon" type="image/png" sizes="120x120" href="assets/media/favicon/apple-icon-120x120.png">
-        <link rel="icon" type="image/png" sizes="144x144" href="assets/media/favicon/apple-icon-144x144.png">
-        <link rel="icon" type="image/png" sizes="152x152" href="assets/media/favicon/apple-icon-152x152.png">
-        <link rel="icon" type="image/png" sizes="180x180" href="assets/media/favicon/apple-icon-180x180.png">
-        <link rel="icon" type="image/png" sizes="120x120" href="assets/media/favicon/apple-icon-precomposed.png">
-        <!-- <link rel="icon" type="image/png"  href="assets/media/favicon/favicon.png"> -->
-        <link rel="icon" type="image/png" sizes="16x16" href="assets/media/favicon/favicon-16x16.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="assets/media/favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="96x96" href="assets/media/favicon/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="70x70" href="assets/media/favicon/ms-icon-70x70.png">
-        <link rel="icon" type="image/png" sizes="144x144" href="assets/media/favicon/ms-icon-144x144.png">
-        <link rel="icon" type="image/png" sizes="150x150" href="assets/media/favicon/ms-icon-150x150.png">
-        <link rel="icon" type="image/png" sizes="310x310" href="assets/media/favicon/ms-icon-310x310.png">
+        <link rel="apple-touch-icon" sizes="57x57" href="https://adwebtech.online/assets/images/fav/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://adwebtech.online/assets/images/fav/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://adwebtech.online/assets/images/fav/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://adwebtech.online/assets/images/fav/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://adwebtech.online/assets/images/fav/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://adwebtech.online/assets/images/fav/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://adwebtech.online/assets/images/fav/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://adwebtech.online/assets/images/fav/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://adwebtech.online/assets/images/fav/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="https://adwebtech.online/assets/images/fav/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://adwebtech.online/assets/images/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://adwebtech.online/assets/images/fav/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://adwebtech.online/assets/images/fav/favicon-16x16.png">
 
         <!-- All CSS files -->
         <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
