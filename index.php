@@ -47,7 +47,7 @@
                 <div class="container">
                     <nav class="navbar navbar-expand-lg">
                         <div class="collapse navbar-collapse justify-content-between">
-                            <a class="navbar-brand" href="index.php"><img alt="logo" src="https://adwebtech.online/assets/images/logo-img.png" style="object-fit: contain; width: 100px;"></a>
+                            <a class="navbar-brand" href="index.php"><img alt="Adwebtech" src="https://adwebtech.online/assets/images/logo-img.png" style="object-fit: contain; width: 100px;"></a>
                             <ul class="navbar-nav mainmenu">
                                 <li class="menu-item"><a href="#services">Services</a></li>
                                 <li class="menu-item"><a href="#skills">Skills</a></li>
